@@ -1,23 +1,23 @@
-# Tools and Technology
-- ** Frontend Technologies:**
+## Tools and Technology
 
-- HTML: HTML5 (Latest version)
-- CSS: CSS3 (Latest version)
-- JAVASCRIPT (Latest version)
-- PHP: v8.0 (Latest version as of April 2022)
+- **Frontend Technologies:**
+  - HTML: HTML5 (Latest version)
+  - CSS: CSS3 (Latest version)
+  - JAVASCRIPT (Latest version)
+  - PHP: v8.0 (Latest version as of April 2022)
+    
+- **Backend Technologies:**
+  - phpmyadmin: v5.2.1 (Latest version as of April 2023))
+  - Apache Server: v2.2.34 (Latest version as of April 2023)
+    
+- **Database:**
+  - MySql: v8.0.30 (Latest version as of April 2022)
 
-- ** Backend Technologies:**
+- **Dashboards:**
+  - Admin Dashboard
+  - User Dashboard
 
-- phpmyadmin: v5.2.1 (Latest LTS version as of April 2023)
-- Apache Server: v2.2.34 (Latest version as of April 2023)
 
-- ** Database:**
-
-- MySql: v8.0.30 (Latest version as of April 2022)
-
-# Dashboards:
-- Admin Dashboard
-- User Dashboard
 
 ## Installation
 
