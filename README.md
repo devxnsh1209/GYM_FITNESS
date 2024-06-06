@@ -41,12 +41,12 @@ Computer-based solution for Solution Fitness Center to manage customer details, 
 8. login with given details.
 
 ## Screenshots 
-![image](https://github.com/devxnsh1209/GYM_FITNESS/assets/100987818/5fcef35e-f838-4910-8746-8b5ef76572f8)
+&emsp; ![image](https://github.com/devxnsh1209/GYM_FITNESS/assets/100987818/5fcef35e-f838-4910-8746-8b5ef76572f8)
 
 
 
 
 
 
-![image](https://github.com/devxnsh1209/GYM_FITNESS/assets/100987818/e548c42c-d43c-4e68-ba50-5a3f8653aad7)
+&emsp; ![image](https://github.com/devxnsh1209/GYM_FITNESS/assets/100987818/e548c42c-d43c-4e68-ba50-5a3f8653aad7)
 
