@@ -1,3 +1,7 @@
+# GYM_FITNESS
+Computer-based solution for Solution Fitness Center to manage customer details, including membership, personal information, and inventory. Enables administrators to access and track member details conveniently, facilitating progress reports for members.
+
+
 ## Tools and Technology
 
 - **Frontend Technologies:**
