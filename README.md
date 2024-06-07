@@ -33,7 +33,7 @@ Computer-based solution for Solution Fitness Center to manage customer details, 
 4. Turn on Apache server & Mysql
 5. Extract the zip file in following location :
     (C:) Drive / xampp / htdocs
-6. import database file in phpmuyadmin.
+6. Create a new database and import database file in phpmyadmin.
 7. Open Browser and run url :
    ```bash
    localhost/(folder_name)
